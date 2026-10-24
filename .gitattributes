@@ -1,0 +1,3 @@
+# Store text files with LF line endings so Docker (Linux) and CI see the same files as Windows.
+* text=auto eol=lf
+*.pdf binary
