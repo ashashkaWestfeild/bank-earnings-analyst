@@ -1,0 +1,7 @@
+[project]
+name = "bank-earnings-analyst"
+version = "0.1.0"
+description = "Cited Q&A over Indian banks' earnings-call transcripts and key metrics, built from scratch."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
